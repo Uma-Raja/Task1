@@ -1,0 +1,13 @@
+# Ignore environment & secrets
+config.php
+
+# Ignore vendor (can be installed via composer)
+vendor/
+
+# Ignore logs & cache
+*.log
+*.cache
+
+# OS files
+.DS_Store
+Thumbs.db
